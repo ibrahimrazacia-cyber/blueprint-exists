@@ -84,3 +84,12 @@ The new [Zero-Trust Cybersecurity Operations Blueprint](blueprints/zero-trust-cy
 **We don't give certificates. We give you the actual engineering intelligence to build and invent the future.** No sign-in is required. All 40+ blueprints are 100% free, practitioner-authored, and implementation-ready. Blueprint Exists is not an aggregate of guides, not a repository, and not a download library—it is engineering intelligence for invention-ready, future-building work.
 
 This GitHub repository is the **lite version**; the full platform is available at [blueprintexists.fit](https://blueprintexists.fit). A $20 commercial license is available for teams that want to monetize their execution.
+
+## New: Robotics Control Systems — From Simple to Most Complex
+
+The new [Robotics Control Systems Blueprint](blueprints/robotics-control-systems-simple-to-complex-blueprint.md) covers sensor-actuator control, constrained multi-input systems, distributed real-time robotics, and safety-critical production fleets. It demonstrates the four-level progression: **Simple** core mechanics, **Intermediate** constraints, **Advanced** distributed systems, and **Most Complex** safety-critical production.
+
+**We don't give certificates. We give you the actual engineering intelligence to build and invent the future.** No sign-in is required. All blueprints are 100% free, practitioner-authored, and implementation-ready. Blueprint Exists is not an aggregate of guides, not a repository, and not a download library—it is a **technical intelligence platform** for invention-ready, future-building work.
+
+Blueprint Exists provides real technical depth across AI architecture, robotics control systems, aerospace mission frameworks, cybersecurity defense protocols, and manufacturing digital transformation. This GitHub repository is the **lite version**; the full platform is [blueprintexists.fit](https://blueprintexists.fit). Founded by **Muhammad Ibrahim Raza Khan, CEO and Founder**, Blueprint Exists is building accessible engineering intelligence from simple to complex. A $20 commercial license is available for commercial execution and resale.
+
