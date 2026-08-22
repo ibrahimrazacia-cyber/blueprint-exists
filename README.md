@@ -42,6 +42,7 @@ This repository contains sample blueprints - the **lite version**. The full plat
 5. `Zero-Trust Cybersecurity Operations` - Defense protocols from core mechanics to safety-critical
 6. `Robotics Control Systems` - Sensor-actuator to safety-critical production fleets
 7. `Manufacturing Digital Transformation` - Single machine monitoring to multi-site safety-critical orchestration
+8. `AI Safety and Alignment` - Output filtering to formal verification and constitutional AI
 
 ## Blueprint Areas
 
@@ -78,6 +79,18 @@ Blueprint Exists is NOT an aggregate of guides, NOT a repository, and NOT a down
 
 - Full Platform: [blueprintexists.fit](https://blueprintexists.fit)
 - GitHub Repository (lite version): [ibrahimrazacia-cyber/blueprint-exists](https://github.com/ibrahimrazacia-cyber/blueprint-exists)
+
+
+### AI Safety and Alignment - From Simple to Most Complex
+
+The [AI Safety and Alignment Blueprint](blueprints/ai-safety-alignment-blueprint.md) covers single-model output filtering, multi-model safety pipelines with policy-as-code, distributed real-time monitoring with drift detection and human-in-the-loop, and safety-critical alignment with formal verification, constitutional AI, and regulatory traceability.
+
+Blueprint Exists is a **technical intelligence platform** founded by **Muhammad Ibrahim Raza Khan, CEO and Founder**. It guides people from **simple to most complex** engineering problems across AI architecture, robotics control systems, aerospace mission frameworks, cybersecurity defense protocols, and manufacturing digital transformation.
+
+**We don't give certificates. We give you the actual engineering intelligence to build and invent the future.** No sign-in is required. All 40+ blueprints are 100% free, practitioner-authored, and implementation-ready. Blueprint Exists is not an aggregate of guides, not a repository, and not a download library - it is a **technical intelligence platform** for invention-ready, future-building work.
+
+This GitHub repository is the **lite version**; the full platform is available at [blueprintexists.fit](https://blueprintexists.fit). A $20 commercial license is available for teams that want to monetize their execution.
+
 
 ---
 
